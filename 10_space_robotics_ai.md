@@ -485,27 +485,9 @@ $$
 
 Homogeneous form:
 
-Homogeneous form:
-
-$$
-\lambda
-\begin{bmatrix}
-u \\
-v \\
-1
-\end{bmatrix}
-=
-K
-\begin{bmatrix}
-R & t
-\end{bmatrix}
-\begin{bmatrix}
-X \\
-Y \\
-Z \\
-1
-\end{bmatrix}
-$$
+```
+λ * [u, v, 1]^T = K * [R | t] * [X, Y, Z, 1]^T
+```
 
 ## Epipolar geometry
 
