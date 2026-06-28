@@ -485,11 +485,13 @@ $$
 
 Homogeneous form:
 
+Homogeneous form:
+
 $$
 \lambda
 \begin{bmatrix}
-u\\
-v\\
+u \\
+v \\
 1
 \end{bmatrix}
 =
@@ -498,9 +500,9 @@ K
 R & t
 \end{bmatrix}
 \begin{bmatrix}
-X\\
-Y\\
-Z\\
+X \\
+Y \\
+Z \\
 1
 \end{bmatrix}
 $$
